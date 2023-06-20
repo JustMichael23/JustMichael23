@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustMichael
-- 👀 I’m interested in minecraft coding
+- 👀 I’m interested in  coding
 - 🌱 I’m currently learning java
-- 📫 How to reach me? on discord _JustMichael#6377
+- 📫 How to reach me? on discord jmichael23
 
 
