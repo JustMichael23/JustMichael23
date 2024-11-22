@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi, I'm Michael – a passionate **Web Developer** and **Student in Teacher Training: Technology and Computer Science**. I'm driven by a love for technology, education, and building creative solutions. Besides coding, I’m actively involved in local organizations and working on starting my own web development business.
+Hi, I'm Michael – a passionate **Web Developer** and **Student as Teacher: Technology and Computer Science**. I'm driven by a love for technology, education, and building creative solutions. Besides coding, I’m actively involved in local organizations and working on starting my own web development business.
 
 ---
 
